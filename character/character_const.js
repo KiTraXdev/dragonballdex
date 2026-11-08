@@ -1,0 +1,8 @@
+export const name = document.getElementById("name")
+export const id = document.getElementById("id")
+export const img = document.getElementById("img")
+export const ki = document.getElementById("ki")
+export const maxki = document.getElementById("max")
+export const sexe = document.getElementById("sexe")
+export const afi = document.getElementById("afi")
+export const race = document .getElementById("race")
